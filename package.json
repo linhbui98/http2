@@ -1,0 +1,13 @@
+{
+    "name": "http-s",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "linhbui98 <linhbuiquang2321998@gmail.com>",
+    "license": "MIT",
+    "scripts": {
+        "start": "nodemon server.js"
+    },
+    "dependencies": {
+        "nodemon": "^2.0.4"
+    }
+}
